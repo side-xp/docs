@@ -1,0 +1,6 @@
+site_name: Sideways Experiments Docs
+# This directory is created during the mkdocs.yml workflow
+docs_dir: deploy/src
+theme:
+  name: readthedocs
+  logo: ./img/logo.png
