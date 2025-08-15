@@ -8,4 +8,5 @@ You can see this content as "templates" for our needs, but feel free to download
 
 - [Code of Conduct](./CODE_OF_CONDUCT.md): The Code of Conduct file we use for most of our projects, based on the [Contributor Covenant](https://www.contributor-covenant.org).
 - [Contributing](./CONTRIBUTING.md): The "contributing" instructions we use for most of our projects.
+- [Issue templates](./issue-templates/README.md): The templates we use for creating formatted Issues in our projects
 - [Pull Request template](./PULL_REQUEST_TEMPLATE.md): The template we use for creating Pull Requests in our projects
